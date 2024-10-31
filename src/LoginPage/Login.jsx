@@ -11,9 +11,9 @@ const Login = () => {
 
         fetch('https://autoapi.dezinfeksiyatashkent.uz/api/',
           {
-            method:POST,
+            method:'POST',
             headers:{
-              
+
             }
           }
         )
